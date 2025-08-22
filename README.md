@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="250" src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.webp"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.webp"  />
 
 ###
 
