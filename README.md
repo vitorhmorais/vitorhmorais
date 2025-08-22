@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.webp"  />
+<img align="right" height="250" src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.webp"  />
 
 ###
 
@@ -38,5 +38,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/vitorhmorais/vitorhmorais/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vitorhmorais.vitorhmorais&"  />
+</div>
 
 ###
